@@ -21,3 +21,6 @@ function BookingMap() {
       </GoogleMap>
     </div>
   );
+}
+
+export default BookingMap;
